@@ -1,3 +1,20 @@
 body{
-    background-color: chartreuse;
+    background-image: url(./assets/bg-mobile.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;  /*preenche todo o espaço com a imagem*/
+}
+
+
+#container{
+    width: 360px;
+    height: 712px;
+    border: 1px solid red;
+    margin: auto;         /*alinhando a container no meio da pagina*/
+}  
+
+#profile img{
+        width: 112px;
+        margin: auto;
+        
 }

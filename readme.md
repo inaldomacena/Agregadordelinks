@@ -1,1 +1,1 @@
-Projeto Agregador de Links - desenvolvido usando HTML, CSS e Javascript
+Projeto Agregador de Links - Desenvolvido usando HTML, CSS e Javascript.
